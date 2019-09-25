@@ -1,7 +1,15 @@
 organization=iiiiio
 projectKey=iiiiio_unittest_env
 serverUrl=https://sonarcloud.io
+<<<<<<< Updated upstream
 serverVersion=8.0.0.713
 dashboardUrl=https://sonarcloud.io/dashboard?id=iiiiio_unittest_env
 ceTaskId=AW1mtfI5-tnbyXA85BuM
 ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW1mtfI5-tnbyXA85BuM
+=======
+serverVersion=8.0.0.884
+branch=master-12.12
+dashboardUrl=https://sonarcloud.io/dashboard?id=iiiiio_unittest_env&branch=master-12.12
+ceTaskId=AW1n1iwb_eTYOa6hQZAa
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW1n1iwb_eTYOa6hQZAa
+>>>>>>> Stashed changes

@@ -1,0 +1,8 @@
+organization=iiiiio
+projectKey=iiiiio_unittest_env
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.884
+branch=backup
+dashboardUrl=https://sonarcloud.io/dashboard?id=iiiiio_unittest_env&branch=backup&resolved=false
+ceTaskId=AW1nqP67Xef7AyXdwEyk
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW1nqP67Xef7AyXdwEyk

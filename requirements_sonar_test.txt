@@ -76,7 +76,7 @@ oss2==2.0.4
 pbr==3.1.1
 pdfkit==0.6.1
 pep8==1.6.2
-Pillow==3.3.0
+Pillow==6.2.0
 postmarkup==1.2.1
 py2app==0.7.1
 pyasn1==0.1.9

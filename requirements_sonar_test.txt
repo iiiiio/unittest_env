@@ -81,7 +81,7 @@ postmarkup==1.2.1
 py2app==0.7.1
 pyasn1==0.1.9
 pycparser==2.14
-Pygments==2.0.2
+Pygments==2.7.4
 PyJWT==0.3.0
 pylibmc==1.4.3
 pyOpenSSL==17.3.0

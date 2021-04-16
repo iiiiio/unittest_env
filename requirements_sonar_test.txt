@@ -28,7 +28,7 @@ django-boto==0.3.1
 django-braces==1.8.1
 django-celery==3.2.2
 django-ckeditor==4.0.2
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-elasticache==0.0.3
 django-environ==0.4.4
 django-facebook==5.2.6
